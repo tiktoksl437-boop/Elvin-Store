@@ -1,0 +1,6 @@
+{
+  "name": "Arga Store & Jasa Post",
+  "description": "Platform Jasa Posting Akun, Galeri Stok Akun Free Fire, Testimoni Interaktif, dan Link Kontak Admin Terintegrasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
